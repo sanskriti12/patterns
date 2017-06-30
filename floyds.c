@@ -1,3 +1,6 @@
+
+//This program demonstrates floyd's triangle
+
 # include<stdio.h>
 void main()
 {
